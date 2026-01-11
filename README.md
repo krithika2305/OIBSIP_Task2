@@ -35,5 +35,22 @@ The website represents my profile as a **Computer Science (MCA) student** and an
 
 ---
 
-## 📂 Project Structure  
+## 📌 Projects Showcased  
 
+### 🔹 Job Searching Website  
+A responsive job searching platform that allows users to explore job opportunities.  
+🔗 GitHub: https://github.com/krithika2305/Job_Searching_Website  
+
+### 🔹 Python Typing Speed Test  
+A desktop-based typing speed test application built using **Python and Tkinter**.  
+It measures typing speed, accuracy, and missed words.  
+🔗 GitHub: https://github.com/krithika2305/Typing_Test  
+
+### 🔹 Academic Projects  
+Various academic and practice projects created while learning programming and web technologies.
+
+---
+## ⭐ Credits  
+
+Developed by **Krithika**  
+© 2025  
